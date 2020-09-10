@@ -1,4 +1,0 @@
-Zdrojový soubor
-------
-1 - první řádek
-2 - druhý řádek
